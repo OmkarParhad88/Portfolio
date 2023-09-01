@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.90ada6dc.css",
+    "main.js": "/static/js/main.93f936ff.js",
+    "static/media/boy3.png": "/static/media/boy3.790358bc7dec8533a422.png",
+    "static/media/newsapp.png": "/static/media/newsapp.d9fcbbe28faace7fb8e2.png",
+    "static/media/reactjs.png": "/static/media/reactjs.2f2532db663fd5ec5f95.png",
+    "static/media/python.png": "/static/media/python.d8b377f05522bf35de36.png",
+    "static/media/bootstrap.png": "/static/media/bootstrap.cb0fcc269e8250f3551b.png",
+    "static/media/textutil.png": "/static/media/textutil.79c7da083afe65d144d0.png",
+    "static/media/html.png": "/static/media/html.f3aa7827cd5160f3fc1c.png",
+    "static/media/Omkar Resume.pdf": "/static/media/Omkar Resume.b31d663bb48c452305d8.pdf",
+    "static/media/glassesimoji.png": "/static/media/glassesimoji.a08bdab12e8eb56a6874.png",
+    "static/media/java.png": "/static/media/java.5d5cffa04d820ba0644c.png",
+    "static/media/js.png": "/static/media/js.1fd44cea9d9bd9ee2944.png",
+    "static/media/css.png": "/static/media/css.f5abc244362b5136dc0e.png",
+    "static/media/vector22.png": "/static/media/vector22.50a47ad6dcb0a5ec74b0.png",
+    "static/media/vector11.png": "/static/media/vector11.4bfc20399a0026987c7e.png",
+    "static/media/github2.png": "/static/media/github2.22cfdd1cba253783ce51.png",
+    "static/media/thumbup.png": "/static/media/thumbup.e06790ba656f0397cbe5.png",
+    "static/media/wave.png": "/static/media/wave.fdfef4069ad90f610990.png",
+    "static/media/crown.png": "/static/media/crown.dbe416beae9b49b842ab.png",
+    "index.html": "/index.html",
+    "main.90ada6dc.css.map": "/static/css/main.90ada6dc.css.map",
+    "main.93f936ff.js.map": "/static/js/main.93f936ff.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.90ada6dc.css",
+    "static/js/main.93f936ff.js"
+  ]
+}
